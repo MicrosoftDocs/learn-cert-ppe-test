@@ -1,0 +1,64 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: 'Azure Administrators implement, manage, and monitor an organization’s Microsoft Azure environment.'
+uid: certification.azure-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>In response to the coronavirus (COVID-19) situation, Microsoft is implementing several temporary changes to our training and certification program. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></font></div>
+  
+  Candidates for the Azure Administrator Associate certification should have subject matter expertise implementing, managing, and monitoring an organization’s Microsoft Azure environment.
+  
+  Responsibilities for this role include implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
+  
+  An Azure Administrator often serves as part of a larger team dedicated to implementing your organization's cloud infrastructure.
+  
+  A candidate for this certification should have at least six months of hands-on experience administering Azure, along with a strong understanding of core Azure services, Azure workloads, security, and governance. In addition, this role should have experience using PowerShell, Azure CLI, Azure portal, and Azure Resource Manager templates.
+subTitle: Azure Administrators implement, manage, and monitor an organization’s Microsoft Azure environment.
+levels:
+- intermediate
+skills:
+- Manage Azure identities and governance 
+- Implement and manage storage
+- Deploy and manage Azure compute resources 
+- Configure and manage virtual networking 
+- Monitor and back up Azure resources 
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+courses:
+- uid: course.az-010t00
+paths:
+- uid: learn-test-sandbox.loadtest-1
+exams:
+- uid: exam.az-104
+resources:
+- title: Azure certifications poster
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Administrator Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

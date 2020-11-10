@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-104
+summary: |-
+  This two-day course is designed for AWS Sysops administrators interested in learning how Azure is different from AWS, and how Azure is administered. The workshops main topics are Azure Administration, Azure Networking, Azure Compute, Azure Storage, and Azure Governance. This workshop combines lecture with hands-on practical exercises and discussion/review. During the workshop students will build an end-to-end architecture that demonstrates the main features discussed in the course.
+
+  #### Audience profile
+  The audience for this course is an AWS Sysops Administrator Associate or equivalent. This person has one to two years of experience in AWS deployment, management, and operations. Students taking this course are interested in learning how Azure is different from AWS, and how Azure is administered. Students may also be interested in taking the AZ-103 Microsoft Azure Administrator certification exam, or the AZ-900 Azure Fundamentals exam.
+prerequisitesSection: |-
+  Successful AWS Sysops start this course with experience in operating systems, virtualization, cloud infrastructure, storage structures, identity solutions, and networking. Specifically, students should have&#58;
+  - A working knowledge of how to construct CLI commands, including using the help pages to determine appropriate parameters and command structure.
+  - Understanding of virtual network concepts, Domain Name System (DNS), virtual private networks (VPNs), firewalls, gateways, and encryption technologies.
+  - Understanding of virtual machines, how they are used, and configuration options like CPU performance and disks.
+  - Understanding virtual storage concepts such as storage accounts, blobs, file shares, and disk types.
+  - Understanding of governance concepts, including role-based access control, identity management, and identity protection.
+outlineSection: |-
+  ### Module  1&#58; Azure Administration
+  In this module, you’ll learn about the tools and principle concepts needed to administer Azure. Topics include: Resource Manager, Resource Groups, Azure Portal, Azure CLI, Azure Templates, Cloud Shell, Azure Marketplace, and Azure PowerShell.
+  
+
+  ### Module  2&#58; Azure Networking
+  In this module, you’ll learn about Azure networking features. Topics include&#58; Azure Regions, Virtual Networks and Subnets, IP Addressing, Network Security Groups, Virtual Network Peering, VNet-to-VNet Connections, ExpressRoute, Load Balancers, and Network Watcher.
+
+
+  ### Module  3&#58; Azure Compute
+  In this module, you’ll learn about configuring and monitoring Azure virtual machines. Topics include&#58; Azure Virtual Machines, Creating Virtual Machines, Virtual Machine Sizes, Virtual Machine Disks, Availability Zones, Availability Sets, Windows VM Connections, Linux VM Connections, Azure Monitor, and Azure Alerts.
+  
+  
+  ### Module  4&#58; Azure Storage
+  In this module, you’ll learn about Azure storage features and implementation. Topics include&#58; Storage Accounts, Blob Storage, Blob Performance Tiers, File Shares, File Sync, Data Box, Content Delivery Network, Shared Access Signatures, and Service Endpoints.
+
+  
+  ### Module  5&#58; Azure Identity
+  In this module, you’ll learn about Azure identity solutions. Topics include&#58; Azure Domains, Role-based Access Control, Azure Active Directory, Multi-Factor Authentication, Azure AD Identity Protection, and Azure Policy.

@@ -1,0 +1,79 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator
+metadata:
+  title: 'Exam AZ-104: Microsoft Azure Administrator'
+  description: 'Exam AZ-104: Microsoft Azure Administrator'
+uid: exam.az-104
+displayName: AZ-104
+summary: |-  
+  <div>
+  <div><font color='red'><strong>In response to the coronavirus (COVID-19) situation, Microsoft is implementing several temporary changes to our training and certification program. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>The content of this exam will be updated on November 24, 2020. Please download the skills measured document below to see what will be changing.</strong><br/><br/></div>
+  </div>
+  
+  Candidates for this exam should have subject matter expertise implementing, managing, and monitoring an organization’s Microsoft Azure environment.
+  
+  Responsibilities for an Azure Administrator include implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
+  
+  An Azure Administrator often serves as part of a larger team dedicated to implementing your organization's cloud infrastructure.
+  
+  A candidate for this exam should have at least six months of hands-on experience administering Azure, along with a strong understanding of core Azure services, Azure workloads, security, and governance. In addition, this role should have experience using PowerShell, Azure CLI, Azure portal, and Azure Resource Manager templates.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: manage Azure identities and governance; implement and manage storage; deploy and manage Azure compute resources; configure and manage virtual networking; and monitor and back up Azure resources.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&provider=psi&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+locales:
+- en
+- zh-cn
+- ko
+- ja
+levels:
+- intermediate
+skills:
+- The content of this exam will be updated on November 24, 2020. Please download the exam skills outline below to see what will be changing.
+- Manage Azure identities and governance (15-20%) 
+- Implement and manage storage (10-15%)
+- Deploy and manage Azure compute resources (25-30%) 
+- Configure and manage virtual networking (30-35%) 
+- Monitor and back up Azure resources (10-15%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.az-010t00
+paths:
+- uid: learn-test-sandbox.loadtest-1
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Administrator Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md
